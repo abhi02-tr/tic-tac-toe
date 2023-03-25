@@ -103,6 +103,7 @@ class Game extends React.Component {
   render() {
     return (
       <div className="game">
+      <h1>Hellooo</h1>
         <div className="game-board">
           <Board />
         </div>
